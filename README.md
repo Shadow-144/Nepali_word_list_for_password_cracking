@@ -1,0 +1,1 @@
+# Nepali_word_list_for_password_cracking
